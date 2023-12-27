@@ -1,0 +1,17 @@
+{
+  "name": "supor/leitor-excel",
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.29"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Perfilor",
+      "email": "suporte@perfilor.com.br"
+    }
+  ]
+}
